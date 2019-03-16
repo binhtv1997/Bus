@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Form1.resources
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\dell\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\dell\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\dell\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
