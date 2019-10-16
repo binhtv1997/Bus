@@ -1,0 +1,32 @@
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.deps.json
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.pdb
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csprojAssemblyReference.cache
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csproj.CoreCompileInputs.cache
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfoInputs.cache
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfo.cs
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\Was-Clone\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.pdb
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.deps.json
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.pdb
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csprojAssemblyReference.cache
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csproj.CoreCompileInputs.cache
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfoInputs.cache
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfo.cs
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\SWD301\BE\GiatUi\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.pdb
+>>>>>>> master
+>>>>>>> Stashed changes
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.deps.json
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\bin\Debug\netcoreapp2.2\GiatDo.Model.pdb
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csprojAssemblyReference.cache
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.csproj.CoreCompileInputs.cache
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfoInputs.cache
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.AssemblyInfo.cs
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.dll
+D:\Laundry\Laundry\GIatDo\GiatDo.Model\obj\Debug\netcoreapp2.2\GiatDo.Model.pdb
